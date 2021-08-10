@@ -477,7 +477,7 @@ This library does not use the iOS, Android or JS SDKs from Google. This comes wi
 
 ### Use Inside a `<ScrollView/>` or `<FlatList/>`
 
-If you need to include this component inside a ScrolView or FlatList, remember to apply the `keyboardShouldPersistTaps` attribute to all ancestors ScrollView or FlatList (see [this](https://github.com/FaridSafi/react-native-google-places-autocomplete/issues/486#issuecomment-665602257) issue comment).
+If you need to include this component inside a ScrollView or FlatList, remember to apply the `keyboardShouldPersistTaps` attribute to all ancestors ScrollView or FlatList (see [this](https://github.com/FaridSafi/react-native-google-places-autocomplete/issues/486#issuecomment-665602257) issue comment).
 
 ## A word about the Google Maps APIs
 
